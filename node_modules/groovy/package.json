@@ -1,0 +1,20 @@
+{
+  "name": "groovy",
+  "version": "0.0.1",
+  "author": "tgiCloud <support@tgicloud.com>",
+  "description": "It's groovy man",
+  "contributors": [
+    {
+      "name": "Sean Smith",
+      "email": "dremoor@gmail.com"
+    }
+  ],
+  "dependencies" : {
+  },
+  "devDependencies": {
+    "colors": "*"
+  },
+  "engines": {
+    "node": ">=0.6.6"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gradle": "^1.2.3",
+    "groovy": "^0.0.1",
+    "java": "^0.12.1",
+    "spring": "^0.0.0"
+  }
+}
